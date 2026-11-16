@@ -1,0 +1,18 @@
+{
+  "seen": 1200,
+  "accepted": 1200,
+  "skipped": 0,
+  "train_documents": 1000,
+  "val_documents": 200,
+  "train_words": 154443,
+  "val_words": 31216,
+  "subset_sha256": "5e19a9967e50a07821239a2ec52e3d9fc703050a9bda740f1f5c75fdce524475",
+  "identical_prefixes_between_splits": 47,
+  "vocab_size": 6004,
+  "train_fragments": 5792,
+  "val_fragments": 1170,
+  "train_targets": 155443,
+  "val_targets": 31416,
+  "train_unk_rate": 0.23400218850967672,
+  "val_unk_rate": 0.28767298821117376
+}
